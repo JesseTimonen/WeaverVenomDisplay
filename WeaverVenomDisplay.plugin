@@ -1,0 +1,16 @@
+<?xml version = "1.0"?>
+<Plugin> 
+    <Information>
+    <Name>WeaverVenomDisplay</Name>
+        <Author>Henna</Author>
+        <Version>1.0.0</Version>
+        <Image>WeaverVenomDisplay/Images/icon.tga</Image>
+<Description>
+DESCRIPTION
+¯¯¯¯¯¯¯¯¯¯¯
+This plugin displays weaver's venom in a custom UI element.
+</Description>
+    </Information>
+    <Package>WeaverVenomDisplay.Compiler</Package>
+    <Configuration Apartment = "WeaverVenomDisplay" />
+</Plugin>
